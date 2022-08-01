@@ -1,9 +1,10 @@
-import Home from './Home';
-import Navbar from './Navbar';
-import Create from './Create';
+import Home from './Home'
+import Navbar from './Navbar'
+import Create from './Create'
 import { BrowserRouter as Router,Route,Routes} from 'react-router-dom'
-import BlogDetails from './BlogDetails';
-import NotFound from './NotFound';
+import BlogDetails from './BlogDetails'
+import NotFound from './NotFound'
+
 function App() { 
   return ( 
     <Router>
