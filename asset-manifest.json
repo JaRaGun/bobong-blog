@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bobong-blog/static/css/main.f1302bb2.css",
+    "main.js": "/bobong-blog/static/js/main.7fe6d7ba.js",
+    "index.html": "/bobong-blog/index.html",
+    "main.f1302bb2.css.map": "/bobong-blog/static/css/main.f1302bb2.css.map",
+    "main.7fe6d7ba.js.map": "/bobong-blog/static/js/main.7fe6d7ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1302bb2.css",
+    "static/js/main.7fe6d7ba.js"
+  ]
+}
